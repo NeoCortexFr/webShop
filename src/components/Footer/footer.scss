@@ -1,0 +1,9 @@
+.footer {
+  background-color: #191970;
+  color: silver;
+  &_content {
+    text-align: center;
+    font-weight: bold;
+    padding: 1em;
+  }
+}
